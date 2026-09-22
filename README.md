@@ -2,8 +2,6 @@
 
 Discover the speech habits you don't notice — filler words, pacing, and pauses, analyzed locally on your Mac.
 
-## What is this?
-
 Speech Habit Analyzer is a web app for rehearsing interviews and presentations. Upload a recording or record straight from the browser, pick the language you're speaking, and get a personalized report — filler word usage, speaking pace, pause patterns, and a composite Fluency Score — generated entirely with plain Python, with no LLM involved and nothing sent to a third-party API. Every analysis is saved locally, so you can track how your Fluency Score changes over time and replay past recordings with the transcript synced to playback.
 
 ## Features
